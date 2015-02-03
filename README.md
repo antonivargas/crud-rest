@@ -4,7 +4,7 @@
 
 <p><strong>Trabalho de RestFul</strong></p>
 
-<p>Acessar o <a href="http://crud-rest.hol.es/">demo</a> do projeto<p>
+<p>Acessar o <a target="blank" href="http://crud-rest.hol.es/">demo</a> do projeto<p>
 
 ======================================
 <p>Acessos ao FTP Online</p>
